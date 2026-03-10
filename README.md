@@ -1,6 +1,7 @@
 <div align="center">
 <h1 align="center">Hola, soy Gildardo Morando</h1>
-<h3 align="center">Analista de Datos en formación | Python | SQL | Data Analysis</h3>
+<h3 align="center">Analista de Datos</h3>  
+<h3 align="center">Python | SQL | Power BI | Git | GitHub | VS Code</h3>
 </div>
 
 <div align="center">
@@ -29,6 +30,7 @@
 
 <p>
 <img src="https://skillicons.dev/icons?i=python,postgres,sqlite,git,github,vscode" />
+<img src="https://img.icons8.com/color/48/power-bi.png" width="58" height="100"/>
 </p>
 
 ---
